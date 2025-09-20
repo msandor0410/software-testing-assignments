@@ -7,13 +7,9 @@ This repository contains **practice assignments** for the **Software Testing** l
   
 
 >**Disclaimer**
-
 >
-
 >  - I make **no guarantees** about the correctness, completeness, or fitness of the solutions.
-
 >  - I take **no responsibility** if someone copies any part of this work and submits it as their own.
-
 >  - I upload these materials **purely for my own amusement** and **archival purposes**.
 
   
