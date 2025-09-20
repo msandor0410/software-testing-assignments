@@ -22,13 +22,10 @@ Please do not submit these materials as your own work. Always follow your course
 
   
 
--  **Assignment 01 – Gherkin Login**
-
-- Cucumber/Gherkin test cases for a login function (happy path, validation, and various failure states).
-
-- Minimal Java step definitions to run the scenarios without a real backend.
-
--  **Note:** The minimal code was created with assistance from **GPT-5 Thinking (ChatGPT)**, since writing code was **not part of the assignment** itself.
+-  **Assignment 01 – Gherkin Login:**
+    -  Cucumber/Gherkin test cases for a login function (happy path, validation, and various failure states).
+    -  Minimal Java step definitions to run the scenarios without a real backend.
+    -  **Note:** The minimal code was created with assistance from **GPT-5 Thinking (ChatGPT)**, since writing code was **not part of the assignment** itself.
 
   
 
